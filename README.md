@@ -3,8 +3,8 @@
 This project involves the analysis of credit card transaction data to identify key spending patterns, customer behavior, and potential anomalies. It utilizes Power BI for data visualization and interactive reporting.
 
 ### 🛠️ Tools Used
-Power BI: For data import, modeling, and interactive visualizations.
+#### Power BI: For data import, modeling, and interactive visualizations.
 
-MySQL/MySQL Workbench: Used to store, query, and preprocess the raw credit card transaction data.
+#### MySQL/MySQL Workbench: Used to store, query, and preprocess the raw credit card transaction data.
 
-SQL: Used to write queries for data extraction, cleaning, aggregation, and joins before importing into Power BI.
+#### SQL: Used to write queries for data extraction, cleaning, aggregation, and joins before importing into Power BI.
